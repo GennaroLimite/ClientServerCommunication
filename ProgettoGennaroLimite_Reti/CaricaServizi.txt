@@ -1,0 +1,120 @@
+0
+0
+0
+Entrata
+ENTRATA
+0
+1
+0
+La Nike è una delle aziende leader nel mondo dello sport. Nasce il 25 gennaio 1967 da Bille Bowerman e Phil Knight. Negli anni la Nike è diventeta il primo produttore mondiale di accessori e abbigliamento sportivo.
+NIKE
+0
+2
+0
+L'Adidas è una delle aziende leader nel mondo dello sport.La gamma odierna comprende calzature, abbigliamento e accessori sportivi quali: calcio, corsa, tennis, pallacanestro e tanti altri.
+ADIDAS
+1
+2
+0
+Aziende leader nel settore dello sport con vendita di calzature e abbigliamento si per uomo che per donna. Disponibili anche articoli per bambini.
+NEW BALANCE
+2
+2
+0
+Benvenuto in H&M, la tua destinazione per acquistare moda a prezzi bassissimi. Acquista le ultime tendenze e scopri il nostro abbigliamento di qualità al miglior prezzo.
+H&M
+2
+1
+0
+Scopri le ultime tendenze della moda in Bershka. Acquista t-shirts, abiti, jeans, scarpe e molti altri. Nuovi prodotti ogni settimana con prezzi bassissimi.
+BERSHKA
+2
+0
+0
+Benvenuto in Paul&Bear. Scopri le novità settimanali di Pull&Bear in abbigliamento per tirare fuori il tuo lato alternativo.
+PAUL&BEAR
+1
+0
+0
+Footlocker è lo store ideale per gli amanti dello street style. Una vasta gamma di prodotti esclusivi pronti a stupirti ogni giorno.
+FOOTLOKER
+0
+0
+1
+Tuffati nel mondo di Alcott. Trova le migliori offrte, cataloghi e collezioni. Inizia a risparmiare.
+ALCOTT
+0
+1
+1
+Benvenuto in OVS. Scopri tutte le migliori occasioni sull'Abbigliamento Donna, Uomo e Bambino.
+OVS
+0
+2
+1
+Vieni a scoprire tutti i prodotti Tezenis: Intimo e Abbigliamento giovane, trendy e alla moda. Scopri tutti i prodotti scontati, la poromozione Tezenis e le offerte speciali.
+TEZENIS
+1
+2
+1
+Entra in Zara. Solo da noi puoi trovare gli abiti all'ultimo grido, uomo, donna, giovani e bambini.
+ZARA
+2
+2
+1
+Da Reebok puoi trovare tutti gli articoli che fanno comodo ad un vero sportivo. Dal calcio al crossfit all'abbigliamento urban. Uomo, donna e bambino solo da noi con prezi vantaggiosi, vieni a trovarci.
+REEBOK
+2
+1
+1
+Acquista le scarpe, l'abbigliamento, gli accessori e tanti altri articoli direttamente da PUMA. Solo noi grazie ad uno staff qualificato possiamo aiutarti nei tuoi acquisti nel migliore dei modi.
+PUMA
+2
+0
+1
+Da Pandora scopri tutti i gioielli della nuova collezione. Dagli anelli agli sharm in argento, oro, oro con pietri. Vieni a trovarci e scegli il gioiello che fa per te
+PANDORA
+1
+0
+1
+Leader nel settore della vendita di abbigliamento per donna. Da noi puoi trovare qualità e convenienza allo stesso tempo. Dalla lingerie agli abiti sportivi. Casa aspetti? Corri a trovarci.
+OYSHO
+0
+0
+2
+Nuova azienda nel settore degli accessori femminili. Borse, borselli, gioielli, scarpe e tanti altri accessori. Da Accessorize puoi trovare tutto quello che una donna cerca.
+ACCESSORIZE
+0
+1
+2
+Anche se è un marchio meno conosciuto nel settore dello sport rispetto a colossi come Adidas e Nike, la Macron ha puntato a realizzare prodotti unici nel suo genere, mettendo attenzione e particolarità in ogni suo prodotto.
+MACRON
+0
+2
+2
+Nei negozi BIALETTI INDUSTRIE potete trovare marchi di lunga tradizione e particolare notorietà, da sempre riconosciuti nel mondo per la loro qualità, il design e la loro innovazione tecnologica quali Bialetti, Aeternum, Rondine,Girmi e CEM. 
+BIALETTI
+1
+2
+2
+Camomilla vanta una tradizione più che trentennale nel settore dell’abbigliamento e degli accessori femminili e le sue collezioni presentano uno stile contemporaneo in cui ogni capo è pensato per garantire la massima versatilità ed eleganza.
+CAMOMILLA
+2
+2
+2
+L’Apple Store è il posto migliore per provare tutti i prodotti Apple e trovare fantastici accessori. I nostri Specialisti risponderanno a tutte le tue domande e ti aiuteranno con il setup. Qui da noi puoi imparare sempre qualcosa di nuovo.
+APPLE
+2
+1
+2
+Permettere a tutti di seguire la propria personalità e assecondarla con qualità, comodità e gusto per le cose belle: questo è il nostro concetto di stile.
+DE FONSECA
+2
+0
+2
+Vendita al dettaglio di calzature, abbigliamento e accessori Made in Italy.
+NEROGIARDINI
+1
+0
+2
+Piazza Italia il Mega Store della moda. Oltre 1300 metri quadri pensati per la famiglia giovane che ama vestire alla moda senza rinunciare alla convenienza. Il punto vendita presenta un lay-out diviso nei 3 settori uomo, donna e bambino. 
+PIZZA ITALIA
